@@ -486,3 +486,6 @@
 2022-07-18 19:47:21,100 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2022-07-18 19:54:11,975 [Worker-18: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-18 19:54:11,990 [Worker-18: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-18 19:54:12,002 [Worker-18: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-18 19:54:12,051 [Worker-18: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 19:54:12,051 [Worker-18: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\dsmeta\backend\src\test\resources
